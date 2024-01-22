@@ -1,6 +1,7 @@
 import express from "express"
 import morgan from "morgan";
 import cors from "cors"
+import deeplRoute from "./routes/deepl.routes.js";
 
 const app = express();
 
@@ -22,6 +23,7 @@ app.get("/", (req, res ) => {
     })
 })
 
+app.use(deeplRoute);
 
 app.use((req, res)=>{
     res.status(404).json({
