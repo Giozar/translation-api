@@ -1,0 +1,755 @@
+[{
+  "0": {
+    "name": "Serie E LIT",
+    "description": "La mejor ergonomía para herramientas de embrague de batería desde 0,4 hasta 45 Nm. Optimizar su proceso de ensamblaje con 1 velocidad, 2 velocidades u otros parámetros establecidos en la herramienta directamente...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Serie-E-LIT.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/17/serie-e-lit",
+    "id": 1,
+    "categoryId": 1,
+    "pathName": "Serie-E-LIT"
+  },
+  "1": {
+    "name": "Herramientas de batería de embrague inalámbricas E LIT",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Herramientas-de-batería-de-embrague-inalámbricas-E-LIT.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/16/herramientas-de-bateria-de-embrague-inalambricas-e-lit",
+    "id": 2,
+    "categoryId": 1,
+    "pathName": "Herramientas-de-batería-de-embrague-inalámbricas-E-LIT"
+  },
+  "2": {
+    "name": "Plataforma E LIT",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Plataforma-E-LIT.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/167/plataforma-e-lit",
+    "id": 3,
+    "categoryId": 1,
+    "pathName": "Plataforma-E-LIT"
+  },
+  "3": {
+    "name": "Serie B Flex",
+    "description": "Herramientas de batería transductoras independientes para cubrir el torque desde 1.5 hasta 95 Nm. Con 1 set de parámetros estándar o con 6 sets de parámetros avanzado. Programación de la herramienta, torque...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Serie-B-Flex.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/18/serie-b-flex",
+    "id": 4,
+    "categoryId": 1,
+    "pathName": "Serie-B-Flex"
+  },
+  "4": {
+    "name": "B Flex QRX",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/B-Flex-QRX.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/15/b-flex-qrx",
+    "id": 5,
+    "categoryId": 1,
+    "pathName": "B-Flex-QRX"
+  },
+  "5": {
+    "name": "EABS Series",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/EABS-Series.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/14/eabs-series",
+    "id": 6,
+    "categoryId": 1,
+    "pathName": "EABS-Series"
+  },
+  "6": {
+    "name": "EABcom EPBcom aprietatuercas de batería",
+    "description": "La última innovación Desoutter con herramientas de batería. Hasta 4 herramientas de batería transductoras conectadas a 1 sólo controlador CVI3 Visión. 100% de trazabilidad completa, calidad y libertad...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/EABcom-EPBcom-aprietatuercas-de-batería.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/215/eabcom-epbcom-aprietatuercas-de-bateria",
+    "id": 7,
+    "categoryId": 1,
+    "pathName": "EABcom-EPBcom-aprietatuercas-de-batería"
+  },
+  "7": {
+    "name": "Batería E Pulse herramienta de pulso de batería eléctrica",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Batería-E-Pulse-herramienta-de-pulso-de-batería-eléctrica.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/19/bateria-e-pulse-herramienta-de-pulso-de-bateria-electrica",
+    "id": 8,
+    "categoryId": 1,
+    "pathName": "Batería-E-Pulse-herramienta-de-pulso-de-batería-eléctrica"
+  },
+  "8": {
+    "name": "QShield C Llave Digital Inteligente",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/QShield-C-Llave-Digital-Inteligente.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/5323/qshield-c-llave-digital-inteligente",
+    "id": 9,
+    "categoryId": 1,
+    "pathName": "QShield-C-Llave-Digital-Inteligente"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c59"
+  }
+},
+{
+  "0": {
+    "name": "Connect",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Connect.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/131/connect",
+    "id": 1,
+    "categoryId": 2,
+    "pathName": "Connect"
+  },
+  "1": {
+    "name": "Virtual Cable",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Virtual-Cable.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/132/virtual-cable",
+    "id": 2,
+    "categoryId": 2,
+    "pathName": "Virtual-Cable"
+  },
+  "2": {
+    "name": "Conectividades",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Conectividades.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/133/conectividades",
+    "id": 3,
+    "categoryId": 2,
+    "pathName": "Conectividades"
+  },
+  "3": {
+    "name": "Software Connect",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Software-Connect.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/134/software-connect",
+    "id": 4,
+    "categoryId": 2,
+    "pathName": "Software-Connect"
+  },
+  "4": {
+    "name": "Multi spindle solutions",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Multi-spindle-solutions.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/135/multi-spindle-solutions",
+    "id": 5,
+    "categoryId": 2,
+    "pathName": "Multi-spindle-solutions"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c5a"
+  }
+},
+{
+  "0": {
+    "name": "Gama CVI3",
+    "description": "CVI3 - El nuevo estándar de valor en el aprete eficiente. La gama CVI tiene la más potente y flexible herramientas trasductoras y fixturizadas para su seguridad y aplicaciones críticas. Este nuevo sistema...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Gama-CVI3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3",
+    "id": 1,
+    "categoryId": 3,
+    "pathName": "Gama-CVI3"
+  },
+  "1": {
+    "name": "Gama CVIR II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Gama-CVIR-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/22/gama-cvir-ii",
+    "id": 2,
+    "categoryId": 3,
+    "pathName": "Gama-CVIR-II"
+  },
+  "2": {
+    "name": "CVIXS Range",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/CVIXS-Range.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/27/cvixs-range",
+    "id": 3,
+    "categoryId": 3,
+    "pathName": "CVIXS-Range"
+  },
+  "3": {
+    "name": "Gama CVIL II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Gama-CVIL-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii",
+    "id": 4,
+    "categoryId": 3,
+    "pathName": "Gama-CVIL-II"
+  },
+  "4": {
+    "name": "Rango MultiCVIL II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Rango-MultiCVIL-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/24/rango-multicvil-ii",
+    "id": 5,
+    "categoryId": 3,
+    "pathName": "Rango-MultiCVIL-II"
+  },
+  "5": {
+    "name": "Gama CVIC II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Gama-CVIC-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii",
+    "id": 6,
+    "categoryId": 3,
+    "pathName": "Gama-CVIC-II"
+  },
+  "6": {
+    "name": "ELRT Herramientas de pulso",
+    "description": "El E-PULSE es la primera herramienta de impulso totalmente eléctrica en el mercado que ofrece una completa transformación de neumática a eléctrica sin reacción en herramientas de ensamblaje.",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/ELRT-Herramientas-de-pulso.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/234/elrt-herramientas-de-pulso",
+    "id": 7,
+    "categoryId": 3,
+    "pathName": "ELRT-Herramientas-de-pulso"
+  },
+  "7": {
+    "name": "Destornilladores eléctricos ERS",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-eléctricos-ERS.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/222/destornilladores-electricos-ers",
+    "id": 8,
+    "categoryId": 3,
+    "pathName": "Destornilladores-eléctricos-ERS"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c5b"
+  }
+},
+{
+  "0": {
+    "name": "Gama SLBN",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Gama-SLBN.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/3/destornilladores-electricos/31/gama-slbn",
+    "id": 1,
+    "categoryId": 4,
+    "pathName": "Gama-SLBN"
+  },
+  "1": {
+    "name": "Gama SLC",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Gama-SLC.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/3/destornilladores-electricos/32/gama-slc",
+    "id": 2,
+    "categoryId": 4,
+    "pathName": "Gama-SLC"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c5c"
+  }
+},
+{
+  "0": {
+    "name": "Destornilladores de desconexión en línea",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-de-desconexión-en-línea.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/41/destornilladores-de-desconexion-en-linea",
+    "id": 1,
+    "categoryId": 5,
+    "pathName": "Destornilladores-de-desconexión-en-línea"
+  },
+  "1": {
+    "name": "Destornilladores de empuñadura de pistola para cierre",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-de-empuñadura-de-pistola-para-cierre.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/42/destornilladores-de-empunadura-de-pistola-para-cierre",
+    "id": 2,
+    "categoryId": 5,
+    "pathName": "Destornilladores-de-empuñadura-de-pistola-para-cierre"
+  },
+  "2": {
+    "name": "Destornilladores sin desconexión en línea",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-sin-desconexión-en-línea.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/44/destornilladores-sin-desconexion-en-linea",
+    "id": 3,
+    "categoryId": 5,
+    "pathName": "Destornilladores-sin-desconexión-en-línea"
+  },
+  "3": {
+    "name": "Destornilladores sin desconexión empuñadura de pistola",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-sin-desconexión-empuñadura-de-pistola.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/45/destornilladores-sin-desconexion-empunadura-de-pistola",
+    "id": 4,
+    "categoryId": 5,
+    "pathName": "Destornilladores-sin-desconexión-empuñadura-de-pistola"
+  },
+  "4": {
+    "name": "Destornilladores de accionamiento directo",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-de-accionamiento-directo.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/46/destornilladores-de-accionamiento-directo",
+    "id": 5,
+    "categoryId": 5,
+    "pathName": "Destornilladores-de-accionamiento-directo"
+  },
+  "5": {
+    "name": "Destornilladores automáticos de reversa",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-automáticos-de-reversa.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/47/destornilladores-automaticos-de-reversa",
+    "id": 6,
+    "categoryId": 5,
+    "pathName": "Destornilladores-automáticos-de-reversa"
+  },
+  "6": {
+    "name": "Destornilladores de Torque controlado de desconexión",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-de-Torque-controlado-de-desconexión.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/48/destornilladores-de-torque-controlado-de-desconexion",
+    "id": 7,
+    "categoryId": 5,
+    "pathName": "Destornilladores-de-Torque-controlado-de-desconexión"
+  },
+  "7": {
+    "name": "Cabeza angular apagado",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Cabeza-angular-apagado.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/49/cabeza-angular-apagado",
+    "id": 8,
+    "categoryId": 5,
+    "pathName": "Cabeza-angular-apagado"
+  },
+  "8": {
+    "name": "Cabeza angular sin apagar",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Cabeza-angular-sin-apagar.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/490/cabeza-angular-sin-apagar",
+    "id": 9,
+    "categoryId": 5,
+    "pathName": "Cabeza-angular-sin-apagar"
+  },
+  "9": {
+    "name": "Cabeza angular accionamiento directo",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Cabeza-angular-accionamiento-directo.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/491/cabeza-angular-accionamiento-directo",
+    "id": 10,
+    "categoryId": 5,
+    "pathName": "Cabeza-angular-accionamiento-directo"
+  },
+  "10": {
+    "name": "Destornilladores de desconexión HLT",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-de-desconexión-HLT.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/492/destornilladores-de-desconexion-hlt",
+    "id": 11,
+    "categoryId": 5,
+    "pathName": "Destornilladores-de-desconexión-HLT"
+  },
+  "11": {
+    "name": "Destornilladores de desconexión FAS",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-de-desconexión-FAS.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/493/destornilladores-de-desconexion-fas",
+    "id": 12,
+    "categoryId": 5,
+    "pathName": "Destornilladores-de-desconexión-FAS"
+  },
+  "12": {
+    "name": "herramientas de pulso",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/herramientas-de-pulso.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/494/herramientas-de-pulso",
+    "id": 13,
+    "categoryId": 5,
+    "pathName": "herramientas-de-pulso"
+  },
+  "13": {
+    "name": "accesorios de fijación",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/accesorios-de-fijación.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion",
+    "id": 14,
+    "categoryId": 5,
+    "pathName": "accesorios-de-fijación"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c5d"
+  }
+},
+{
+  "0": {
+    "name": "Llaves dinamométricas",
+    "description": "La nueva llave digital de integrar en un único dispositivo una solución flexible, tanto para la estrategia de producción y calidad en el apriete. La DWT proporciona una solución de alta precisión para...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Llaves-dinamométricas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/53/llaves-dinamometricas",
+    "id": 1,
+    "categoryId": 6,
+    "pathName": "Llaves-dinamométricas"
+  },
+  "1": {
+    "name": "Transductores de torque",
+    "description": "El transductor rotario de torque DRT4 está diseñado para medir la salida del torque de cualquier herramienta de montaje de no impacto. El transductor es adecuado para el uso con herramientas de impulso...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Transductores-de-torque.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque",
+    "id": 2,
+    "categoryId": 6,
+    "pathName": "Transductores-de-torque"
+  },
+  "2": {
+    "name": "Transductor de fuerza de sujeción",
+    "description": "The \"FCT series\" are designed to prove the repeatability of a Pulse tool in achieving a target clamp force.",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Transductor-de-fuerza-de-sujeción.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/54/transductor-de-fuerza-de-sujecion",
+    "id": 3,
+    "categoryId": 6,
+    "pathName": "Transductor-de-fuerza-de-sujeción"
+  },
+  "3": {
+    "name": "Colectores de datos",
+    "description": "La nueva generación de analizador Delta es la solución portátil compacta para controlar todo tipo de herramientas de producción en tan sólo 500g. Combinado con los DRT estándar o transductores DST es capaz...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Colectores-de-datos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/51/colectores-de-datos",
+    "id": 4,
+    "categoryId": 6,
+    "pathName": "Colectores-de-datos"
+  },
+  "4": {
+    "name": "Destornilladores Probadores de torque",
+    "description": "La Serie Alpha D está diseñada para monitorear y recoger resultados de la comprobación del torque de destornilladores, llaves de torque o  llaves de clic.Ideal para afinar las herramientas gracias a las...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Destornilladores-Probadores-de-torque.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/56/destornilladores-probadores-de-torque",
+    "id": 5,
+    "categoryId": 6,
+    "pathName": "Destornilladores-Probadores-de-torque"
+  },
+  "5": {
+    "name": "Banco de capacidades",
+    "description": "Los simuladores de juntas se utilizan para reproducir las condiciones normalesde uso de una herramienta eléctrica de manera que la calibración de la herramienta esadaptada a la capacidad de resistencia...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Banco-de-capacidades.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/55/banco-de-capacidades",
+    "id": 6,
+    "categoryId": 6,
+    "pathName": "Banco-de-capacidades"
+  },
+  "6": {
+    "name": "Software de sistemas de medición",
+    "description": "El nuevo software de control de calidad Delta es la plataforma de software común para todos los equipos de medición Delta QC. Característica incluida de programación, resultados y visor de seguimiento...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Software-de-sistemas-de-medición.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/57/software-de-sistemas-de-medicion",
+    "id": 7,
+    "categoryId": 6,
+    "pathName": "Software-de-sistemas-de-medición"
+  },
+  "7": {
+    "name": "Accesorios de sistemas de medición",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Accesorios-de-sistemas-de-medición.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/10013/accesorios-de-sistemas-de-medicion",
+    "id": 8,
+    "categoryId": 6,
+    "pathName": "Accesorios-de-sistemas-de-medición"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c5e"
+  }
+},
+{
+  "0": {
+    "name": "Configure su entorno",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Configure-su-entorno.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/64/control-de-procesos-pivotware/641/configure-su-entorno",
+    "id": 1,
+    "categoryId": 7,
+    "pathName": "Configure-su-entorno"
+  },
+  "1": {
+    "name": "Optimizar y guiar a los operadores",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Optimizar-y-guiar-a-los-operadores.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/64/control-de-procesos-pivotware/642/optimizar-y-guiar-a-los-operadores",
+    "id": 2,
+    "categoryId": 7,
+    "pathName": "Optimizar-y-guiar-a-los-operadores"
+  },
+  "2": {
+    "name": "Controle el flujo de producción",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Controle-el-flujo-de-producción.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/64/control-de-procesos-pivotware/643/controle-el-flujo-de-produccion",
+    "id": 3,
+    "categoryId": 7,
+    "pathName": "Controle-el-flujo-de-producción"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c5f"
+  }
+},
+{
+  "0": {
+    "name": "CVI Net Web",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/CVI-Net-Web.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/63/reporte-en-tiempo-real-y-trazabilidad/631/cvi-net-web",
+    "id": 1,
+    "categoryId": 8,
+    "pathName": "CVI-Net-Web"
+  },
+  "1": {
+    "name": "QC Avanzado",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/QC-Avanzado.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/63/reporte-en-tiempo-real-y-trazabilidad/632/qc-avanzado",
+    "id": 2,
+    "categoryId": 8,
+    "pathName": "QC-Avanzado"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c60"
+  }
+},
+{
+  "0": {
+    "name": "Perforación manual neumática",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Perforación-manual-neumática.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica",
+    "id": 1,
+    "categoryId": 9,
+    "pathName": "Perforación-manual-neumática"
+  },
+  "1": {
+    "name": "Soluciones manuales de batería",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Soluciones-manuales-de-batería.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/74/soluciones-manuales-de-bateria",
+    "id": 2,
+    "categoryId": 9,
+    "pathName": "Soluciones-manuales-de-batería"
+  },
+  "2": {
+    "name": "Unidades de perforación neumática avanzada",
+    "description": "Fast, Robust, powerful, modular, ergonomic. Discover the full range of Seti-tec pneumatic drilling solutions.",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Unidades-de-perforación-neumática-avanzada.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/70/unidades-de-perforacion-neumatica-avanzada",
+    "id": 3,
+    "categoryId": 9,
+    "pathName": "Unidades-de-perforación-neumática-avanzada"
+  },
+  "3": {
+    "name": "Unidades avanzadas de perforación eléctricas éVo",
+    "description": "All the advantages of the pneumatic range, with modularity & full control over drilling parameters & process feedback. Ready for industry 4.0.",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Unidades-avanzadas-de-perforación-eléctricas-éVo.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/71/unidades-avanzadas-de-perforacion-electricas-evo",
+    "id": 4,
+    "categoryId": 9,
+    "pathName": "Unidades-avanzadas-de-perforación-eléctricas-éVo"
+  },
+  "4": {
+    "name": "Unidades robóticas avanzadas de perforación éVo",
+    "description": "Light weight multifunction end effectors.Seti-Tec expertise now available on Robotic Solutions.",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Unidades-robóticas-avanzadas-de-perforación-éVo.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/72/unidades-roboticas-avanzadas-de-perforacion-evo",
+    "id": 5,
+    "categoryId": 9,
+    "pathName": "Unidades-robóticas-avanzadas-de-perforación-éVo"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c61"
+  }
+},
+{
+  "0": {
+    "name": "extractores",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/extractores.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/8/tapping-y-remachado/84/extractores",
+    "id": 1,
+    "categoryId": 10,
+    "pathName": "extractores"
+  },
+  "1": {
+    "name": "herramientas para desbarbar",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/herramientas-para-desbarbar.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/8/tapping-y-remachado/85/herramientas-para-desbarbar",
+    "id": 2,
+    "categoryId": 10,
+    "pathName": "herramientas-para-desbarbar"
+  },
+  "2": {
+    "name": "herramientas de compresión",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/herramientas-de-compresión.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/8/tapping-y-remachado/82/herramientas-de-compresion",
+    "id": 3,
+    "categoryId": 10,
+    "pathName": "herramientas-de-compresión"
+  },
+  "3": {
+    "name": "martillos de remache",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/martillos-de-remache.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/8/tapping-y-remachado/83/martillos-de-remache",
+    "id": 4,
+    "categoryId": 10,
+    "pathName": "martillos-de-remache"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c62"
+  }
+},
+{
+  "0": {
+    "name": "amoladoras de pinza",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/amoladoras-de-pinza.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/91/amoladoras-de-pinza",
+    "id": 1,
+    "categoryId": 11,
+    "pathName": "amoladoras-de-pinza"
+  },
+  "1": {
+    "name": "Amoladoras para ruedas cónicas y ruedas tipo 1",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Amoladoras-para-ruedas-cónicas-y-ruedas-tipo-1.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/92/amoladoras-para-ruedas-conicas-y-ruedas-tipo-1",
+    "id": 2,
+    "categoryId": 11,
+    "pathName": "Amoladoras-para-ruedas-cónicas-y-ruedas-tipo-1"
+  },
+  "2": {
+    "name": "amoladora para discos de centro hundido y discos de corte",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/amoladora-para-discos-de-centro-hundido-y-discos-de-corte.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/93/amoladora-para-discos-de-centro-hundido-y-discos-de-corte",
+    "id": 3,
+    "categoryId": 11,
+    "pathName": "amoladora-para-discos-de-centro-hundido-y-discos-de-corte"
+  },
+  "3": {
+    "name": "lijadoras de pinza",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/lijadoras-de-pinza.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/94/lijadoras-de-pinza",
+    "id": 4,
+    "categoryId": 11,
+    "pathName": "lijadoras-de-pinza"
+  },
+  "4": {
+    "name": "lijadoras para Discos Abrasivos Cepillado",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/lijadoras-para-Discos-Abrasivos-Cepillado.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/95/lijadoras-para-discos-abrasivos-cepillado",
+    "id": 5,
+    "categoryId": 11,
+    "pathName": "lijadoras-para-Discos-Abrasivos-Cepillado"
+  },
+  "5": {
+    "name": "Lijadoras orbitales al azar de discos abrasivos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Lijadoras-orbitales-al-azar-de-discos-abrasivos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/96/lijadoras-orbitales-al-azar-de-discos-abrasivos",
+    "id": 6,
+    "categoryId": 11,
+    "pathName": "Lijadoras-orbitales-al-azar-de-discos-abrasivos"
+  },
+  "6": {
+    "name": "Lijadoras orbitales de láminas abrasivas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Lijadoras-orbitales-de-láminas-abrasivas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/97/lijadoras-orbitales-de-laminas-abrasivas",
+    "id": 7,
+    "categoryId": 11,
+    "pathName": "Lijadoras-orbitales-de-láminas-abrasivas"
+  },
+  "7": {
+    "name": "máquinas pulidoras",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/máquinas-pulidoras.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/98/maquinas-pulidoras",
+    "id": 8,
+    "categoryId": 11,
+    "pathName": "máquinas-pulidoras"
+  },
+  "8": {
+    "name": "Sistemas de extracción de polvo",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Sistemas-de-extracción-de-polvo.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/99/sistemas-de-extraccion-de-polvo",
+    "id": 9,
+    "categoryId": 11,
+    "pathName": "Sistemas-de-extracción-de-polvo"
+  },
+  "9": {
+    "name": "lijadoras de banda",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/lijadoras-de-banda.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas/991/lijadoras-de-banda",
+    "id": 10,
+    "categoryId": 11,
+    "pathName": "lijadoras-de-banda"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c63"
+  }
+},
+{
+  "0": {
+    "name": "AFD Pneumatic Feed and Drive obsolete",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/AFD-Pneumatic-Feed-and-Drive-obsolete.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10/auto-feed-drills-tappers-obsolete/101/afd-pneumatic-feed-and-drive-obsolete",
+    "id": 1,
+    "categoryId": 12,
+    "pathName": "AFD-Pneumatic-Feed-and-Drive-obsolete"
+  },
+  "1": {
+    "name": "AFDE Pneumatic Feed Electric Drive obsolete",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/AFDE-Pneumatic-Feed-Electric-Drive-obsolete.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10/auto-feed-drills-tappers-obsolete/102/afde-pneumatic-feed-electric-drive-obsolete",
+    "id": 2,
+    "categoryId": 12,
+    "pathName": "AFDE-Pneumatic-Feed-Electric-Drive-obsolete"
+  },
+  "2": {
+    "name": "AFD Control Blocks & Electrical Interfaces obsolete",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/AFD-Control-Blocks-&-Electrical-Interfaces-obsolete.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10/auto-feed-drills-tappers-obsolete/103/afd-control-blocks-electrical-interfaces-obsolete",
+    "id": 3,
+    "categoryId": 12,
+    "pathName": "AFD-Control-Blocks-&-Electrical-Interfaces-obsolete"
+  },
+  "3": {
+    "name": "AFD Spindles obsolete",
+    "description": "Ejes de precisión en modulos intercambiables de salida opcionales para distintos tipos de pinza, R2 y R36",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/AFD-Spindles-obsolete.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10/auto-feed-drills-tappers-obsolete/104/afd-spindles-obsolete",
+    "id": 4,
+    "categoryId": 12,
+    "pathName": "AFD-Spindles-obsolete"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c64"
+  }
+},
+{
+  "0": {
+    "name": "Eje cilíndrico No reversible",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Eje-cilíndrico-No-reversible.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/12/motores-de-aire/1201/eje-cilindrico-no-reversible",
+    "id": 1,
+    "categoryId": 13,
+    "pathName": "Eje-cilíndrico-No-reversible"
+  },
+  "1": {
+    "name": "Eje roscado no reversible",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Eje-roscado-no-reversible.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/12/motores-de-aire/1202/eje-roscado-no-reversible",
+    "id": 2,
+    "categoryId": 13,
+    "pathName": "Eje-roscado-no-reversible"
+  },
+  "2": {
+    "name": "Reversible",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Reversible.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/12/motores-de-aire/1203/reversible",
+    "id": 3,
+    "categoryId": 13,
+    "pathName": "Reversible"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c65"
+  }
+},
+{
+  "0": {
+    "name": "Trazado de aire martillos y trituradoras de flujo de soldadura",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Trazado-de-aire-martillos-y-trituradoras-de-flujo-de-soldadura.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/11/herramientas-varias/1101/trazado-de-aire-martillos-y-trituradoras-de-flujo-de-soldadura",
+    "id": 1,
+    "categoryId": 14,
+    "pathName": "Trazado-de-aire-martillos-y-trituradoras-de-flujo-de-soldadura"
+  },
+  "1": {
+    "name": "Varios",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Varios.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/11/herramientas-varias/1102/varios",
+    "id": 2,
+    "categoryId": 14,
+    "pathName": "Varios"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c66"
+  }
+},
+{
+  "0": {
+    "name": "estaciones de trabajo optimizadas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/estaciones-de-trabajo-optimizadas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas",
+    "id": 1,
+    "categoryId": 15,
+    "pathName": "estaciones-de-trabajo-optimizadas"
+  },
+  "1": {
+    "name": "Accesorios paralínea de aire",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/Accesorios-paralínea-de-aire.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire",
+    "id": 2,
+    "categoryId": 15,
+    "pathName": "Accesorios-paralínea-de-aire"
+  },
+  "2": {
+    "name": "accesorios para herramientas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/accesorios-para-herramientas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas",
+    "id": 3,
+    "categoryId": 15,
+    "pathName": "accesorios-para-herramientas"
+  },
+  "3": {
+    "name": "accesorios de fijación",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subcategorias/accesorios-de-fijación.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion",
+    "id": 4,
+    "categoryId": 15,
+    "pathName": "accesorios-de-fijación"
+  },
+  "_id": {
+    "$oid": "656b8abe6f0d8e80575d3c67"
+  }
+}]

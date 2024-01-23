@@ -1,0 +1,1163 @@
+[{
+  "0": {
+    "name": "Batería E Pulse independiente",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Batería-E-Pulse-independiente.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/19/bateria-e-pulse-herramienta-de-pulso-de-bateria-electrica/190/bateria-e-pulse-independiente",
+    "id": 1,
+    "categoryId": 1,
+    "subcategoryId": 8,
+    "pathName": "Batería-E-Pulse-independiente"
+  },
+  "1": {
+    "name": "Batería E Pulse inalámbrica",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Batería-E-Pulse-inalámbrica.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria/19/bateria-e-pulse-herramienta-de-pulso-de-bateria-electrica/191/bateria-e-pulse-inalambrica",
+    "id": 2,
+    "categoryId": 1,
+    "subcategoryId": 8,
+    "pathName": "Batería-E-Pulse-inalámbrica"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c6d"
+  }
+},
+{
+  "0": {
+    "name": "Sight",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Sight.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/133/conectividades/1331/sight",
+    "id": 1,
+    "categoryId": 2,
+    "subcategoryId": 3,
+    "pathName": "Sight"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c6e"
+  }
+},
+{
+  "0": {
+    "name": "MULTI",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/MULTI.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/135/multi-spindle-solutions/1351/multi",
+    "id": 1,
+    "categoryId": 2,
+    "subcategoryId": 5,
+    "pathName": "MULTI"
+  },
+  "1": {
+    "name": "EFM spindles",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/EFM-spindles.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial/135/multi-spindle-solutions/1352/efm-spindles",
+    "id": 2,
+    "categoryId": 2,
+    "subcategoryId": 5,
+    "pathName": "EFM-spindles"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c6f"
+  }
+},
+{
+  "0": {
+    "name": "CVI3 Controllers",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/CVI3-Controllers.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/210/cvi3-controllers",
+    "id": 1,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "CVI3-Controllers"
+  },
+  "1": {
+    "name": "ERP atornilladores eléctricos de alto torque",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ERP-atornilladores-eléctricos-de-alto-torque.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/213/erp-atornilladores-electricos-de-alto-torque",
+    "id": 2,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "ERP-atornilladores-eléctricos-de-alto-torque"
+  },
+  "2": {
+    "name": "ERP herramientas de torque bajo con empuñadura de pistola de mano",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ERP-herramientas-de-torque-bajo-con-empuñadura-de-pistola-de-mano.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/211/erp-herramientas-de-torque-bajo-con-empunadura-de-pistola-de-mano",
+    "id": 3,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "ERP-herramientas-de-torque-bajo-con-empuñadura-de-pistola-de-mano"
+  },
+  "3": {
+    "name": "EAD atornilladores eléctricos de cabeza ángular",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/EAD-atornilladores-eléctricos-de-cabeza-ángular.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/212/ead-atornilladores-electricos-de-cabeza-angular",
+    "id": 4,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "EAD-atornilladores-eléctricos-de-cabeza-ángular"
+  },
+  "4": {
+    "name": "Atornilladores eléctricos en línea EID",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Atornilladores-eléctricos-en-línea-EID.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/214/atornilladores-electricos-en-linea-eid",
+    "id": 5,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "Atornilladores-eléctricos-en-línea-EID"
+  },
+  "5": {
+    "name": "EABcom EPBcom aprietatuercas de batería",
+    "description": "La última innovación Desoutter con herramientas de batería. Hasta 4 herramientas de batería transductoras conectadas a 1 sólo controlador CVI3 Visión. 100% de trazabilidad completa, calidad y libertad...",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/EABcom-EPBcom-aprietatuercas-de-batería.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/215/eabcom-epbcom-aprietatuercas-de-bateria",
+    "id": 6,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "EABcom-EPBcom-aprietatuercas-de-batería"
+  },
+  "6": {
+    "name": "EFDE EFDA EFDS Husillos eléctricos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/EFDE-EFDA-EFDS-Husillos-eléctricos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/217/efde-efda-efds-husillos-electricos",
+    "id": 7,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "EFDE-EFDA-EFDS-Husillos-eléctricos"
+  },
+  "7": {
+    "name": "Software CVI3",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Software-CVI3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/219/software-cvi3",
+    "id": 8,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "Software-CVI3"
+  },
+  "8": {
+    "name": "accesorios CVI3",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/accesorios-CVI3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/21/gama-cvi3/10015/accesorios-cvi3",
+    "id": 9,
+    "categoryId": 3,
+    "subcategoryId": 1,
+    "pathName": "accesorios-CVI3"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c70"
+  }
+},
+{
+  "0": {
+    "name": "Controladores CVIR II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Controladores-CVIR-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/22/gama-cvir-ii/220/controladores-cvir-ii",
+    "id": 1,
+    "categoryId": 3,
+    "subcategoryId": 2,
+    "pathName": "Controladores-CVIR-II"
+  },
+  "1": {
+    "name": "Destornilladores eléctricos ERS",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Destornilladores-eléctricos-ERS.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/22/gama-cvir-ii/222/destornilladores-electricos-ers",
+    "id": 2,
+    "categoryId": 3,
+    "subcategoryId": 2,
+    "pathName": "Destornilladores-eléctricos-ERS"
+  },
+  "2": {
+    "name": "Software CVIxII",
+    "description": "La gama de atornilladores con transductor ERP está dedicada a aplicaciones de torque alto, especialmente ensamblajes estructurales que requieren precisión y trazabilidad",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Software-CVIxII.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/22/gama-cvir-ii/223/software-cvixii",
+    "id": 3,
+    "categoryId": 3,
+    "subcategoryId": 2,
+    "pathName": "Software-CVIxII"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c71"
+  }
+},
+{
+  "0": {
+    "name": "CVIXS Controllers",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/CVIXS-Controllers.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/27/cvixs-range/270/cvixs-controllers",
+    "id": 1,
+    "categoryId": 3,
+    "subcategoryId": 3,
+    "pathName": "CVIXS-Controllers"
+  },
+  "1": {
+    "name": "ERXS Electric screwdrivers",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ERXS-Electric-screwdrivers.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/27/cvixs-range/271/erxs-electric-screwdrivers",
+    "id": 2,
+    "categoryId": 3,
+    "subcategoryId": 3,
+    "pathName": "ERXS-Electric-screwdrivers"
+  },
+  "2": {
+    "name": "CVIXS accessories",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/CVIXS-accessories.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/27/cvixs-range/10019/cvixs-accessories",
+    "id": 3,
+    "categoryId": 3,
+    "subcategoryId": 3,
+    "pathName": "CVIXS-accessories"
+  },
+  "3": {
+    "name": "Serie DSTxs Nano transductores estáticos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Serie-DSTxs-Nano-transductores-estáticos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/27/cvixs-range/5221/serie-dstxs-nano-transductores-estaticos",
+    "id": 4,
+    "categoryId": 3,
+    "subcategoryId": 3,
+    "pathName": "Serie-DSTxs-Nano-transductores-estáticos"
+  },
+  "4": {
+    "name": "Software CVIXS",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Software-CVIXS.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/27/cvixs-range/272/software-cvixs",
+    "id": 5,
+    "categoryId": 3,
+    "subcategoryId": 3,
+    "pathName": "Software-CVIXS"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c72"
+  }
+},
+{
+  "0": {
+    "name": "Controladores CVIL II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Controladores-CVIL-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii/230/controladores-cvil-ii",
+    "id": 1,
+    "categoryId": 3,
+    "subcategoryId": 4,
+    "pathName": "Controladores-CVIL-II"
+  },
+  "1": {
+    "name": "ELRT Herramientas de pulso",
+    "description": "El E-PULSE es la primera herramienta de impulso totalmente eléctrica en el mercado que ofrece una completa transformación de neumática a eléctrica sin reacción en herramientas de ensamblaje.",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ELRT-Herramientas-de-pulso.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii/234/elrt-herramientas-de-pulso",
+    "id": 2,
+    "categoryId": 3,
+    "subcategoryId": 4,
+    "pathName": "ELRT-Herramientas-de-pulso"
+  },
+  "2": {
+    "name": "ERP herramientas de torque bajo con empuñadura de pistola de mano",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ERP-herramientas-de-torque-bajo-con-empuñadura-de-pistola-de-mano.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii/231/erp-herramientas-de-torque-bajo-con-empunadura-de-pistola-de-mano",
+    "id": 3,
+    "categoryId": 3,
+    "subcategoryId": 4,
+    "pathName": "ERP-herramientas-de-torque-bajo-con-empuñadura-de-pistola-de-mano"
+  },
+  "3": {
+    "name": "ERAL atornilladores eléctricos de cabeza angular",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ERAL-atornilladores-eléctricos-de-cabeza-angular.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii/232/eral-atornilladores-electricos-de-cabeza-angular",
+    "id": 4,
+    "categoryId": 3,
+    "subcategoryId": 4,
+    "pathName": "ERAL-atornilladores-eléctricos-de-cabeza-angular"
+  },
+  "4": {
+    "name": "ERD ERDL atornilladores eléctricos en línea",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ERD-ERDL-atornilladores-eléctricos-en-línea.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii/233/erd-erdl-atornilladores-electricos-en-linea",
+    "id": 5,
+    "categoryId": 3,
+    "subcategoryId": 4,
+    "pathName": "ERD-ERDL-atornilladores-eléctricos-en-línea"
+  },
+  "5": {
+    "name": "ERF Husillos eléctricos fijos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ERF-Husillos-eléctricos-fijos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii/235/erf-husillos-electricos-fijos",
+    "id": 6,
+    "categoryId": 3,
+    "subcategoryId": 4,
+    "pathName": "ERF-Husillos-eléctricos-fijos"
+  },
+  "6": {
+    "name": "Software CVIxII",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Software-CVIxII.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/23/gama-cvil-ii/236/software-cvixii",
+    "id": 7,
+    "categoryId": 3,
+    "subcategoryId": 4,
+    "pathName": "Software-CVIxII"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c73"
+  }
+},
+{
+  "0": {
+    "name": "Rango MultiCVIL II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Rango-MultiCVIL-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/24/rango-multicvil-ii/240/rango-multicvil-ii",
+    "id": 1,
+    "categoryId": 3,
+    "subcategoryId": 5,
+    "pathName": "Rango-MultiCVIL-II"
+  },
+  "1": {
+    "name": "EME ejes compuestos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/EME-ejes-compuestos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/24/rango-multicvil-ii/241/eme-ejes-compuestos",
+    "id": 2,
+    "categoryId": 3,
+    "subcategoryId": 5,
+    "pathName": "EME-ejes-compuestos"
+  },
+  "2": {
+    "name": "EME ejes compuestos con extremo desplazamiento",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/EME-ejes-compuestos-con-extremo-desplazamiento.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/24/rango-multicvil-ii/242/eme-ejes-compuestos-con-extremo-desplazamiento",
+    "id": 3,
+    "categoryId": 3,
+    "subcategoryId": 5,
+    "pathName": "EME-ejes-compuestos-con-extremo-desplazamiento"
+  },
+  "3": {
+    "name": "Software CVIxII",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Software-CVIxII.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/24/rango-multicvil-ii/244/software-cvixii",
+    "id": 4,
+    "categoryId": 3,
+    "subcategoryId": 5,
+    "pathName": "Software-CVIxII"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c74"
+  }
+},
+{
+  "0": {
+    "name": "Controladores CVIC II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Controladores-CVIC-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/250/controladores-cvic-ii",
+    "id": 1,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "Controladores-CVIC-II"
+  },
+  "1": {
+    "name": "Atornilladores ECS",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Atornilladores-ECS.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/251/atornilladores-ecs",
+    "id": 2,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "Atornilladores-ECS"
+  },
+  "2": {
+    "name": "Aprietatuercas ECP LT",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Aprietatuercas-ECP-LT.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/252/aprietatuercas-ecp-lt",
+    "id": 3,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "Aprietatuercas-ECP-LT"
+  },
+  "3": {
+    "name": "ECA Aprietatuercas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ECA-Aprietatuercas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/254/eca-aprietatuercas",
+    "id": 4,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "ECA-Aprietatuercas"
+  },
+  "4": {
+    "name": "ECD Aprietatuercas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ECD-Aprietatuercas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/255/ecd-aprietatuercas",
+    "id": 5,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "ECD-Aprietatuercas"
+  },
+  "5": {
+    "name": "Ejes de montura rígida MC",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Ejes-de-montura-rígida-MC.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/256/ejes-de-montura-rigida-mc",
+    "id": 6,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "Ejes-de-montura-rígida-MC"
+  },
+  "6": {
+    "name": "Posco 500 sistema de posicionamiento",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Posco-500-sistema-de-posicionamiento.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/257/posco-500-sistema-de-posicionamiento",
+    "id": 7,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "Posco-500-sistema-de-posicionamiento"
+  },
+  "7": {
+    "name": "Accesorios Posco",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accesorios-Posco.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/10007/accesorios-posco",
+    "id": 8,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "Accesorios-Posco"
+  },
+  "8": {
+    "name": "Software CVIC II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Software-CVIC-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos/25/gama-cvic-ii/258/software-cvic-ii",
+    "id": 9,
+    "categoryId": 3,
+    "subcategoryId": 6,
+    "pathName": "Software-CVIC-II"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c75"
+  }
+},
+{
+  "0": {
+    "name": "ESP Controladores",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ESP-Controladores.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/3/destornilladores-electricos/31/gama-slbn/310/esp-controladores",
+    "id": 1,
+    "categoryId": 4,
+    "subcategoryId": 1,
+    "pathName": "ESP-Controladores"
+  },
+  "1": {
+    "name": "destornilladores eléctricos SLBN",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/destornilladores-eléctricos-SLBN.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/3/destornilladores-electricos/31/gama-slbn/311/destornilladores-electricos-slbn",
+    "id": 2,
+    "categoryId": 4,
+    "subcategoryId": 1,
+    "pathName": "destornilladores-eléctricos-SLBN"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c76"
+  }
+},
+{
+  "0": {
+    "name": "ESP C Controladores",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ESP-C-Controladores.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/3/destornilladores-electricos/32/gama-slc/320/esp-c-controladores",
+    "id": 1,
+    "categoryId": 4,
+    "subcategoryId": 2,
+    "pathName": "ESP-C-Controladores"
+  },
+  "1": {
+    "name": "destornilladores eléctricos SLC",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/destornilladores-eléctricos-SLC.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/3/destornilladores-electricos/32/gama-slc/321/destornilladores-electricos-slc",
+    "id": 2,
+    "categoryId": 4,
+    "subcategoryId": 2,
+    "pathName": "destornilladores-eléctricos-SLC"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c77"
+  }
+},
+{
+  "0": {
+    "name": "Herramientas de pulso PT",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Herramientas-de-pulso-PT.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/494/herramientas-de-pulso/4941/herramientas-de-pulso-pt",
+    "id": 1,
+    "categoryId": 5,
+    "subcategoryId": 13,
+    "pathName": "Herramientas-de-pulso-PT"
+  },
+  "1": {
+    "name": "Herramientas de pulso PTF",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Herramientas-de-pulso-PTF.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/494/herramientas-de-pulso/4942/herramientas-de-pulso-ptf",
+    "id": 2,
+    "categoryId": 5,
+    "subcategoryId": 13,
+    "pathName": "Herramientas-de-pulso-PTF"
+  },
+  "2": {
+    "name": "accesorios de hHerramientas Pulso",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/accesorios-de-hHerramientas-Pulso.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/494/herramientas-de-pulso/10014/accesorios-de-hherramientas-pulso",
+    "id": 3,
+    "categoryId": 5,
+    "subcategoryId": 13,
+    "pathName": "accesorios-de-hHerramientas-Pulso"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c78"
+  }
+},
+{
+  "0": {
+    "name": "Brocas de tornillo de precisión",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Brocas-de-tornillo-de-precisión.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/112051/brocas-de-tornillo-de-precision",
+    "id": 1,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "pathName": "Brocas-de-tornillo-de-precisión"
+  },
+  "1": {
+    "name": "Inserte pedazos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Inserte-pedazos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/113051/inserte-pedazos",
+    "id": 2,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "pathName": "Inserte-pedazos"
+  },
+  "2": {
+    "name": "pedazos de potencia",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/pedazos-de-potencia.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/114051/pedazos-de-potencia",
+    "id": 3,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "pathName": "pedazos-de-potencia"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c79"
+  }
+},
+{
+  "0": {
+    "name": "DWTA Llave de Auditoría de Calidad en Delta 7D",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/DWTA-Llave-de-Auditoría-de-Calidad-en-Delta-7D.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/53/llaves-dinamometricas/531/dwta-llave-de-auditoria-de-calidad-en-delta-7d",
+    "id": 1,
+    "categoryId": 6,
+    "subcategoryId": 1,
+    "pathName": "DWTA-Llave-de-Auditoría-de-Calidad-en-Delta-7D"
+  },
+  "1": {
+    "name": "QAudit Wrenches on Delta 7D",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/QAudit-Wrenches-on-Delta-7D.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/53/llaves-dinamometricas/533/qaudit-wrenches-on-delta-7d",
+    "id": 2,
+    "categoryId": 6,
+    "subcategoryId": 1,
+    "pathName": "QAudit-Wrenches-on-Delta-7D"
+  },
+  "2": {
+    "name": "Llaves QShield",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Llaves-QShield.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/53/llaves-dinamometricas/532/llaves-qshield",
+    "id": 3,
+    "categoryId": 6,
+    "subcategoryId": 1,
+    "pathName": "Llaves-QShield"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c7a"
+  }
+},
+{
+  "0": {
+    "name": "transductores rotativos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/transductores-rotativos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/521/transductores-rotativos",
+    "id": 1,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "pathName": "transductores-rotativos"
+  },
+  "1": {
+    "name": "Transductores estáticos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Transductores-estáticos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/522/transductores-estaticos",
+    "id": 2,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "pathName": "Transductores-estáticos"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c7b"
+  }
+},
+{
+  "0": {
+    "name": "Accessories for PST",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accessories-for-PST.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/10013/accesorios-de-sistemas-de-medicion/10017/accessories-for-pst",
+    "id": 1,
+    "categoryId": 6,
+    "subcategoryId": 8,
+    "pathName": "Accessories-for-PST"
+  },
+  "1": {
+    "name": "Accessories for Wrenches",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accessories-for-Wrenches.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/10013/accesorios-de-sistemas-de-medicion/10020/accessories-for-wrenches",
+    "id": 2,
+    "categoryId": 6,
+    "subcategoryId": 8,
+    "pathName": "Accessories-for-Wrenches"
+  },
+  "2": {
+    "name": "Accessories for Delta Collectors",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accessories-for-Delta-Collectors.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/10013/accesorios-de-sistemas-de-medicion/10021/accessories-for-delta-collectors",
+    "id": 3,
+    "categoryId": 6,
+    "subcategoryId": 8,
+    "pathName": "Accessories-for-Delta-Collectors"
+  },
+  "3": {
+    "name": "Other measurement systems accessories",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Other-measurement-systems-accessories.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/10013/accesorios-de-sistemas-de-medicion/10022/other-measurement-systems-accessories",
+    "id": 4,
+    "categoryId": 6,
+    "subcategoryId": 8,
+    "pathName": "Other-measurement-systems-accessories"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c7c"
+  }
+},
+{
+  "0": {
+    "name": "Multi taladros",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Multi-taladros.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/730/multi-taladros",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "pathName": "Multi-taladros"
+  },
+  "1": {
+    "name": "Brocas rectas y angulares",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Brocas-rectas-y-angulares.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/731/brocas-rectas-y-angulares",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "pathName": "Brocas-rectas-y-angulares"
+  },
+  "2": {
+    "name": "taladros con empuñadura de pistola",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/taladros-con-empuñadura-de-pistola.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/732/taladros-con-empunadura-de-pistola",
+    "id": 3,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "pathName": "taladros-con-empuñadura-de-pistola"
+  },
+  "3": {
+    "name": "Soluciones para perforación compuesta",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Soluciones-para-perforación-compuesta.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/733/soluciones-para-perforacion-compuesta",
+    "id": 4,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "pathName": "Soluciones-para-perforación-compuesta"
+  },
+  "4": {
+    "name": "Manual C taladrado de pinza",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Manual-C-taladrado-de-pinza.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/734/manual-c-taladrado-de-pinza",
+    "id": 5,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "pathName": "Manual-C-taladrado-de-pinza"
+  },
+  "5": {
+    "name": "Taladros de alimentación en rack",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Taladros-de-alimentación-en-rack.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/735/taladros-de-alimentacion-en-rack",
+    "id": 6,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "pathName": "Taladros-de-alimentación-en-rack"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c7d"
+  }
+},
+{
+  "0": {
+    "name": "XPB One",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/XPB-One.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/74/soluciones-manuales-de-bateria/741/xpb-one",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 2,
+    "pathName": "XPB-One"
+  },
+  "1": {
+    "name": "XPB Modular",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/XPB-Modular.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/74/soluciones-manuales-de-bateria/743/xpb-modular",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 2,
+    "pathName": "XPB-Modular"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c7e"
+  }
+},
+{
+  "0": {
+    "name": "Motor Turbina",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Motor-Turbina.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/70/unidades-de-perforacion-neumatica-avanzada/701/motor-turbina",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 3,
+    "pathName": "Motor-Turbina"
+  },
+  "1": {
+    "name": "ADU cabezales",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ADU-cabezales.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/70/unidades-de-perforacion-neumatica-avanzada/702/adu-cabezales",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 3,
+    "pathName": "ADU-cabezales"
+  },
+  "2": {
+    "name": "Equipos ADU",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Equipos-ADU.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/70/unidades-de-perforacion-neumatica-avanzada/703/equipos-adu",
+    "id": 3,
+    "categoryId": 9,
+    "subcategoryId": 3,
+    "pathName": "Equipos-ADU"
+  },
+  "3": {
+    "name": "Opciones",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Opciones.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/70/unidades-de-perforacion-neumatica-avanzada/704/opciones",
+    "id": 4,
+    "categoryId": 9,
+    "subcategoryId": 3,
+    "pathName": "Opciones"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c7f"
+  }
+},
+{
+  "0": {
+    "name": "éVo Light",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/éVo-Light.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/71/unidades-avanzadas-de-perforacion-electricas-evo/711/evo-light",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 4,
+    "pathName": "éVo-Light"
+  },
+  "1": {
+    "name": "éVo Modular",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/éVo-Modular.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/71/unidades-avanzadas-de-perforacion-electricas-evo/713/evo-modular",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 4,
+    "pathName": "éVo-Modular"
+  },
+  "2": {
+    "name": "EDU cabezales",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/EDU-cabezales.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/71/unidades-avanzadas-de-perforacion-electricas-evo/714/edu-cabezales",
+    "id": 3,
+    "categoryId": 9,
+    "subcategoryId": 4,
+    "pathName": "EDU-cabezales"
+  },
+  "3": {
+    "name": "Equipos EDU",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Equipos-EDU.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/71/unidades-avanzadas-de-perforacion-electricas-evo/715/equipos-edu",
+    "id": 4,
+    "categoryId": 9,
+    "subcategoryId": 4,
+    "pathName": "Equipos-EDU"
+  },
+  "4": {
+    "name": "Caja de control y cables",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Caja-de-control-y-cables.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/71/unidades-avanzadas-de-perforacion-electricas-evo/716/caja-de-control-y-cables",
+    "id": 5,
+    "categoryId": 9,
+    "subcategoryId": 4,
+    "pathName": "Caja-de-control-y-cables"
+  },
+  "5": {
+    "name": "Software y gestión de funciones",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Software-y-gestión-de-funciones.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/71/unidades-avanzadas-de-perforacion-electricas-evo/717/software-y-gestion-de-funciones",
+    "id": 6,
+    "categoryId": 9,
+    "subcategoryId": 4,
+    "pathName": "Software-y-gestión-de-funciones"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c80"
+  }
+},
+{
+  "0": {
+    "name": "Efecto final multifuncional",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Efecto-final-multifuncional.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/72/unidades-roboticas-avanzadas-de-perforacion-evo/721/efecto-final-multifuncional",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 5,
+    "pathName": "Efecto-final-multifuncional"
+  },
+  "1": {
+    "name": "Cabezales de múltiples aplicaciones",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Cabezales-de-múltiples-aplicaciones.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/72/unidades-roboticas-avanzadas-de-perforacion-evo/722/cabezales-de-multiples-aplicaciones",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 5,
+    "pathName": "Cabezales-de-múltiples-aplicaciones"
+  },
+  "2": {
+    "name": "Caja de control",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Caja-de-control.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/72/unidades-roboticas-avanzadas-de-perforacion-evo/723/caja-de-control",
+    "id": 3,
+    "categoryId": 9,
+    "subcategoryId": 5,
+    "pathName": "Caja-de-control"
+  },
+  "3": {
+    "name": "Accesorios para aplicaciones robóticas.",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accesorios-para-aplicaciones-robóticas..jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/72/unidades-roboticas-avanzadas-de-perforacion-evo/724/accesorios-para-aplicaciones-roboticas",
+    "id": 4,
+    "categoryId": 9,
+    "subcategoryId": 5,
+    "pathName": "Accesorios-para-aplicaciones-robóticas."
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c81"
+  }
+},
+{
+  "0": {
+    "name": "Torque D53 y Posicionamiento de Brazos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Torque-D53-y-Posicionamiento-de-Brazos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/11010/torque-d53-y-posicionamiento-de-brazos",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "Torque-D53-y-Posicionamiento-de-Brazos"
+  },
+  "1": {
+    "name": "BANDEJA brazos de reacción telescópicos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/BANDEJA-brazos-de-reacción-telescópicos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/11011/bandeja-brazos-de-reaccion-telescopicos",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "BANDEJA-brazos-de-reacción-telescópicos"
+  },
+  "2": {
+    "name": "Balanceadores",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Balanceadores.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/11012/balanceadores",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "Balanceadores"
+  },
+  "3": {
+    "name": "Brazos balanceadores",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Brazos-balanceadores.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/11013/brazos-balanceadores",
+    "id": 4,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "Brazos-balanceadores"
+  },
+  "4": {
+    "name": "Torque Tubes",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Torque-Tubes.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/10018/torque-tubes",
+    "id": 5,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "Torque-Tubes"
+  },
+  "5": {
+    "name": "Tool Holders",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Tool-Holders.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/10011/tool-holders",
+    "id": 6,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "Tool-Holders"
+  },
+  "6": {
+    "name": "abrazaderas de herramientas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/abrazaderas-de-herramientas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/11014/abrazaderas-de-herramientas",
+    "id": 7,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "abrazaderas-de-herramientas"
+  },
+  "7": {
+    "name": "fundas para herramientas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/fundas-para-herramientas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/11015/fundas-para-herramientas",
+    "id": 8,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "fundas-para-herramientas"
+  },
+  "8": {
+    "name": "ASD dispensador automático de tornillo",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ASD-dispensador-automático-de-tornillo.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11100/estaciones-de-trabajo-optimizadas/11016/asd-dispensador-automatico-de-tornillo",
+    "id": 9,
+    "categoryId": 15,
+    "subcategoryId": 1,
+    "pathName": "ASD-dispensador-automático-de-tornillo"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c82"
+  }
+},
+{
+  "0": {
+    "name": "Filtros reguladores lubricadores FRL",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Filtros-reguladores-lubricadores-FRL.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10320/filtros-reguladores-lubricadores-frl",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "pathName": "Filtros-reguladores-lubricadores-FRL"
+  },
+  "1": {
+    "name": "Carretes de manguera",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Carretes-de-manguera.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10321/carretes-de-manguera",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "pathName": "Carretes-de-manguera"
+  },
+  "2": {
+    "name": "Mangueras",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Mangueras.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "pathName": "Mangueras"
+  },
+  "3": {
+    "name": "Acoplamientos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Acoplamientos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10313/acoplamientos",
+    "id": 4,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "pathName": "Acoplamientos"
+  },
+  "4": {
+    "name": "Air Flex",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Air-Flex.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10310/air-flex",
+    "id": 5,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "pathName": "Air-Flex"
+  },
+  "5": {
+    "name": "Válvulas de bola",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Válvulas-de-bola.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10311/valvulas-de-bola",
+    "id": 6,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "pathName": "Válvulas-de-bola"
+  },
+  "6": {
+    "name": "Espigas",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Espigas.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10340/espigas",
+    "id": 7,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "pathName": "Espigas"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c83"
+  }
+},
+{
+  "0": {
+    "name": "Accesorios de herramientas de batería",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accesorios-de-herramientas-de-batería.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10002/accesorios-de-herramientas-de-bateria",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "Accesorios-de-herramientas-de-batería"
+  },
+  "1": {
+    "name": "accesorios CVIC",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/accesorios-CVIC.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10004/accesorios-cvic",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "accesorios-CVIC"
+  },
+  "2": {
+    "name": "Accesorios CVI II",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accesorios-CVI-II.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10006/accesorios-cvi-ii",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "Accesorios-CVI-II"
+  },
+  "3": {
+    "name": "accesorios CVI3",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/accesorios-CVI3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10015/accesorios-cvi3",
+    "id": 4,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "accesorios-CVI3"
+  },
+  "4": {
+    "name": "CVIXS accessories",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/CVIXS-accessories.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10019/cvixs-accessories",
+    "id": 5,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "CVIXS-accessories"
+  },
+  "5": {
+    "name": "Accesorios HT ERP",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accesorios-HT-ERP.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10016/accesorios-ht-erp",
+    "id": 6,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "Accesorios-HT-ERP"
+  },
+  "6": {
+    "name": "Unidad de transferencia de datos DTU",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Unidad-de-transferencia-de-datos-DTU.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10005/unidad-de-transferencia-de-datos-dtu",
+    "id": 7,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "Unidad-de-transferencia-de-datos-DTU"
+  },
+  "7": {
+    "name": "Posco",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Posco.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10007/posco",
+    "id": 8,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "Posco"
+  },
+  "8": {
+    "name": "Cables",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Cables.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10008/cables",
+    "id": 9,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "Cables"
+  },
+  "9": {
+    "name": "ESP",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/ESP.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10009/esp",
+    "id": 10,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "ESP"
+  },
+  "10": {
+    "name": "SLC SL LES SLB",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/SLC-SL-LES-SLB.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10012/slc-sl-les-slb",
+    "id": 11,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "SLC-SL-LES-SLB"
+  },
+  "11": {
+    "name": "Accesorios de sistemas de medición",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Accesorios-de-sistemas-de-medición.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10013/accesorios-de-sistemas-de-medicion",
+    "id": 12,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "Accesorios-de-sistemas-de-medición"
+  },
+  "12": {
+    "name": "accesorios de hHerramientas Pulso",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/accesorios-de-hHerramientas-Pulso.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10014/accesorios-de-hherramientas-pulso",
+    "id": 13,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "pathName": "accesorios-de-hHerramientas-Pulso"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c84"
+  }
+},
+{
+  "0": {
+    "name": "Brocas de tornillo de precisión",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Brocas-de-tornillo-de-precisión.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11205/brocas-de-tornillo-de-precision",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "pathName": "Brocas-de-tornillo-de-precisión"
+  },
+  "1": {
+    "name": "Inserte pedazos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/Inserte-pedazos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11305/inserte-pedazos",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "pathName": "Inserte-pedazos"
+  },
+  "2": {
+    "name": "pedazos de potencia",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubcategorias/pedazos-de-potencia.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11405/pedazos-de-potencia",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "pathName": "pedazos-de-potencia"
+  },
+  "_id": {
+    "$oid": "656b8afe6f0d8e80575d3c85"
+  }
+}]

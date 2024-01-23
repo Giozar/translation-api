@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f97d"
+  },
+  "id": 1,
+  "name": "Herramientas de montaje de batería",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/1/herramientas-de-montaje-de-bateria",
+  "pathName": "Herramientas-de-montaje-de-batería",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/battery-assembly-tools.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f97e"
+  },
+  "id": 2,
+  "name": "Smart Hub Industrial",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/13/smart-hub-industrial",
+  "pathName": "Smart-Hub-Industrial",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/industrial-smart-hub.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f97f"
+  },
+  "id": 3,
+  "name": "Sistemas de montaje eléctricos",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/2/sistemas-de-montaje-electricos",
+  "pathName": "Sistemas-de-montaje-eléctricos",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/electric-assembly-systems.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f980"
+  },
+  "id": 4,
+  "name": "destornilladores eléctricos",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/3/destornilladores-electricos",
+  "pathName": "destornilladores-eléctricos",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/electric-screwdrivers.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f981"
+  },
+  "id": 5,
+  "name": "Herramientas de sujeción neumáticas",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas",
+  "pathName": "Herramientas-de-sujeción-neumáticas",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/pneumatic-fastening-tools.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f982"
+  },
+  "id": 6,
+  "name": "Sistemas de medición de torque",
+  "description": "Garantiza la precisión del torque de herramientas eléctricas y neumáticas durante las tareas de apriete de calidad crítica. Optimiza el rendimiento de la herramienta reduciendo costes de calidad en la...",
+  "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque",
+  "pathName": "Sistemas-de-medición-de-torque",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/torque-measurement-systems.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f983"
+  },
+  "id": 7,
+  "name": "Control de Procesos Pivotware",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/64/control-de-procesos-pivotware",
+  "pathName": "Control-de-Procesos-Pivotware",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/computer.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f984"
+  },
+  "id": 8,
+  "name": "Reporte en tiempo real y trazabilidad",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/63/reporte-en-tiempo-real-y-trazabilidad",
+  "pathName": "Reporte-en-tiempo-real-y-trazabilidad",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/computer.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f985"
+  },
+  "id": 9,
+  "name": "Soluciones para aplicaciones de barrenado",
+  "description": "Wide range solutions for drilling applications, from manual to robotics applications.",
+  "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado",
+  "pathName": "Soluciones-para-aplicaciones-de-barrenado",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/solutions-for-drilling-applications.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f986"
+  },
+  "id": 10,
+  "name": "Tapping y remachado",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/8/tapping-y-remachado",
+  "pathName": "Tapping-y-remachado",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/tapping-&-riveting.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f987"
+  },
+  "id": 11,
+  "name": "Amoladoras y lijadoras neumáticas",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/9/amoladoras-y-lijadoras-neumaticas",
+  "pathName": "Amoladoras-y-lijadoras-neumáticas",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/pneumatic-grinders-&-sanders.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f988"
+  },
+  "id": 12,
+  "name": "Auto Feed Drills & Tappers obsolete",
+  "description": "Facilidad de integración en la máquina o proceso. Amplia gama del producto  Diseño modular",
+  "href": "https://www.desouttertools.mx/herramientas/10/auto-feed-drills-tappers-obsolete",
+  "pathName": "Auto-Feed-Drills-&-Tappers-obsolete",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/auto-feed-drills-&-tappers.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f989"
+  },
+  "id": 13,
+  "name": "motores de aire",
+  "description": "Desoutter ofrece una amplia gama de paletas rotatorias de motores de aire en acero inoxidable y versiones libres de lubricación, con potencia de entre 0,16 kW (0,21 hp) a 2,9 kW (3,9 hp). La mayoría de...",
+  "href": "https://www.desouttertools.mx/herramientas/12/motores-de-aire",
+  "pathName": "motores-de-aire",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/air-motors.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f98a"
+  },
+  "id": 14,
+  "name": "Herramientas varias",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/11/herramientas-varias",
+  "pathName": "Herramientas-varias",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/miscellaneous-tools.jpg"
+},
+{
+  "_id": {
+    "$oid": "656d2ce03c33484c19e3f98b"
+  },
+  "id": 15,
+  "name": "Accesorios",
+  "description": "",
+  "href": "https://www.desouttertools.mx/herramientas/10000/accesorios",
+  "pathName": "Accesorios",
+  "image": "https://s3.amazonaws.com/desumex.com.mx/categorias/accessories.jpg"
+}]

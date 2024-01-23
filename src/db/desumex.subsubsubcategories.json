@@ -1,0 +1,565 @@
+[{
+  "0": {
+    "name": "Unidad Hex de 3mm",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Unidad-Hex-de-3mm.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/112051/brocas-de-tornillo-de-precision/112101/unidad-hex-de-3mm",
+    "id": 1,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 1,
+    "pathName": "Unidad-Hex-de-3mm"
+  },
+  "1": {
+    "name": "5 16 unidad Hex de 8mm",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/5-16-unidad-Hex-de-8mm.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/112051/brocas-de-tornillo-de-precision/112111/5-16-unidad-hex-de-8mm",
+    "id": 2,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 1,
+    "pathName": "5-16-unidad-Hex-de-8mm"
+  },
+  "2": {
+    "name": "Cuadro Hex de 11mm",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Cuadro-Hex-de-11mm.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/112051/brocas-de-tornillo-de-precision/112121/cuadro-hex-de-11mm",
+    "id": 3,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 1,
+    "pathName": "Cuadro-Hex-de-11mm"
+  },
+  "3": {
+    "name": "Vastago de 4 mm cuña",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Vastago-de-4-mm-cuña.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/112051/brocas-de-tornillo-de-precision/112131/vastago-de-4-mm-cuna",
+    "id": 4,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 1,
+    "pathName": "Vastago-de-4-mm-cuña"
+  },
+  "4": {
+    "name": "Vastago de 5 mm cuña",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Vastago-de-5-mm-cuña.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/112051/brocas-de-tornillo-de-precision/112141/vastago-de-5-mm-cuna",
+    "id": 5,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 1,
+    "pathName": "Vastago-de-5-mm-cuña"
+  },
+  "5": {
+    "name": "4 mm media luna",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/4-mm-media-luna.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/112051/brocas-de-tornillo-de-precision/112151/4-mm-media-luna",
+    "id": 6,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 1,
+    "pathName": "4-mm-media-luna"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c88"
+  }
+},
+{
+  "0": {
+    "name": "1 4 6 35 mm espiga Hex DIN3126 C6.3",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/1-4-6-35-mm-espiga-Hex-DIN3126-C6.3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/113051/inserte-pedazos/113101/1-4-6-35-mm-espiga-hex-din3126-c6-3",
+    "id": 1,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 2,
+    "pathName": "1-4-6-35-mm-espiga-Hex-DIN3126-C6.3"
+  },
+  "1": {
+    "name": "5 16 8 mm espiga Hex DIN3126 C8",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/5-16-8-mm-espiga-Hex-DIN3126-C8.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/113051/inserte-pedazos/113111/5-16-8-mm-espiga-hex-din3126-c8",
+    "id": 2,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 2,
+    "pathName": "5-16-8-mm-espiga-Hex-DIN3126-C8"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c89"
+  }
+},
+{
+  "0": {
+    "name": "1 4 6 35 mm espiga Hex DIN3126 E6.3",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/1-4-6-35-mm-espiga-Hex-DIN3126-E6.3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/4/herramientas-de-sujecion-neumaticas/112001/accesorios-de-fijacion/114051/pedazos-de-potencia/114101/1-4-6-35-mm-espiga-hex-din3126-e6-3",
+    "id": 1,
+    "categoryId": 5,
+    "subcategoryId": 14,
+    "subSubcategoryId": 3,
+    "pathName": "1-4-6-35-mm-espiga-Hex-DIN3126-E6.3"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c8a"
+  }
+},
+{
+  "0": {
+    "name": "QShield S Llave Digital Inteligente Standalone",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/QShield-S-Llave-Digital-Inteligente-Standalone.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/53/llaves-dinamometricas/532/llaves-qshield/5324/qshield-s-llave-digital-inteligente-standalone",
+    "id": 1,
+    "categoryId": 6,
+    "subcategoryId": 1,
+    "subSubcategoryId": 3,
+    "pathName": "QShield-S-Llave-Digital-Inteligente-Standalone"
+  },
+  "1": {
+    "name": "QShield C Llave Digital Inteligente",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/QShield-C-Llave-Digital-Inteligente.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/53/llaves-dinamometricas/532/llaves-qshield/5325/qshield-c-llave-digital-inteligente",
+    "id": 2,
+    "categoryId": 6,
+    "subcategoryId": 1,
+    "subSubcategoryId": 3,
+    "pathName": "QShield-C-Llave-Digital-Inteligente"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c8b"
+  }
+},
+{
+  "0": {
+    "name": "Transductores rotativos sólo par",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Transductores-rotativos-sólo-par.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/521/transductores-rotativos/5211/transductores-rotativos-solo-par",
+    "id": 1,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "subSubcategoryId": 1,
+    "pathName": "Transductores-rotativos-sólo-par"
+  },
+  "1": {
+    "name": "Transductores rotativos Torque y ángulo",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Transductores-rotativos-Torque-y-ángulo.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/521/transductores-rotativos/5212/transductores-rotativos-torque-y-angulo",
+    "id": 2,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "subSubcategoryId": 1,
+    "pathName": "Transductores-rotativos-Torque-y-ángulo"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c8c"
+  }
+},
+{
+  "0": {
+    "name": "Serie DSTxs Nano transductores estáticos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Serie-DSTxs-Nano-transductores-estáticos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/522/transductores-estaticos/5221/serie-dstxs-nano-transductores-estaticos",
+    "id": 1,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "subSubcategoryId": 2,
+    "pathName": "Serie-DSTxs-Nano-transductores-estáticos"
+  },
+  "1": {
+    "name": "Simuladores de juntas DJSxs Nano transductores estáticos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Simuladores-de-juntas-DJSxs-Nano-transductores-estáticos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/522/transductores-estaticos/5222/simuladores-de-juntas-djsxs-nano-transductores-estaticos",
+    "id": 2,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "subSubcategoryId": 2,
+    "pathName": "Simuladores-de-juntas-DJSxs-Nano-transductores-estáticos"
+  },
+  "2": {
+    "name": "Serie PST Transductores estáticos digitales",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Serie-PST-Transductores-estáticos-digitales.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/522/transductores-estaticos/5223/serie-pst-transductores-estaticos-digitales",
+    "id": 3,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "subSubcategoryId": 2,
+    "pathName": "Serie-PST-Transductores-estáticos-digitales"
+  },
+  "3": {
+    "name": "Simuladores de juntas DJS para PST transductores estáticos digitales",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Simuladores-de-juntas-DJS-para-PST-transductores-estáticos-digitales.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/5/sistemas-de-medicion-de-torque/52/transductores-de-torque/522/transductores-estaticos/5224/simuladores-de-juntas-djs-para-pst-transductores-estaticos-digitales",
+    "id": 4,
+    "categoryId": 6,
+    "subcategoryId": 2,
+    "subSubcategoryId": 2,
+    "pathName": "Simuladores-de-juntas-DJS-para-PST-transductores-estáticos-digitales"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c8d"
+  }
+},
+{
+  "0": {
+    "name": "Motores de liberación rápida",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Motores-de-liberación-rápida.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/730/multi-taladros/7301/motores-de-liberacion-rapida",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 1,
+    "pathName": "Motores-de-liberación-rápida"
+  },
+  "1": {
+    "name": "Cabezal Angular de liberación rapida",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Cabezal-Angular-de-liberación-rapida.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/730/multi-taladros/7302/cabezal-angular-de-liberacion-rapida",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 1,
+    "pathName": "Cabezal-Angular-de-liberación-rapida"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c8e"
+  }
+},
+{
+  "0": {
+    "name": "taladros rectos",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/taladros-rectos.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/731/brocas-rectas-y-angulares/7310/taladros-rectos",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 2,
+    "pathName": "taladros-rectos"
+  },
+  "1": {
+    "name": "taladros angulares",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/taladros-angulares.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/731/brocas-rectas-y-angulares/7311/taladros-angulares",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 2,
+    "pathName": "taladros-angulares"
+  },
+  "2": {
+    "name": "Cabezal Angular de alta resistencia",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Cabezal-Angular-de-alta-resistencia.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/731/brocas-rectas-y-angulares/7312/cabezal-angular-de-alta-resistencia",
+    "id": 3,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 2,
+    "pathName": "Cabezal-Angular-de-alta-resistencia"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c8f"
+  }
+},
+{
+  "0": {
+    "name": "Taladros neumáticos pistola 350W 0.5hp",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Taladros-neumáticos-pistola-350W-0.5hp.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/732/taladros-con-empunadura-de-pistola/7320/taladros-neumaticos-pistola-350w-0-5hp",
+    "id": 1,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 3,
+    "pathName": "Taladros-neumáticos-pistola-350W-0.5hp"
+  },
+  "1": {
+    "name": "Taladros neumáticos de pistola 500W 0.68hp",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Taladros-neumáticos-de-pistola-500W-0.68hp.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/732/taladros-con-empunadura-de-pistola/7321/taladros-neumaticos-de-pistola-500w-0-68hp",
+    "id": 2,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 3,
+    "pathName": "Taladros-neumáticos-de-pistola-500W-0.68hp"
+  },
+  "2": {
+    "name": "Taladros neumáticos de pistola 750W 1hp",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Taladros-neumáticos-de-pistola-750W-1hp.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/7/soluciones-para-aplicaciones-de-barrenado/73/perforacion-manual-neumatica/732/taladros-con-empunadura-de-pistola/7322/taladros-neumaticos-de-pistola-750w-1hp",
+    "id": 3,
+    "categoryId": 9,
+    "subcategoryId": 1,
+    "subSubcategoryId": 3,
+    "pathName": "Taladros-neumáticos-de-pistola-750W-1hp"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c90"
+  }
+},
+{
+  "0": {
+    "name": "Effi Max",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Effi-Max.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras/10331/effi-max",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 3,
+    "pathName": "Effi-Max"
+  },
+  "1": {
+    "name": "Effi PVC",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Effi-PVC.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras/10332/effi-pvc",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 3,
+    "pathName": "Effi-PVC"
+  },
+  "2": {
+    "name": "mangueras PU",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/mangueras-PU.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras/10333/mangueras-pu",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 3,
+    "pathName": "mangueras-PU"
+  },
+  "3": {
+    "name": "PVC hoses",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/PVC-hoses.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras/10334/pvc-hoses",
+    "id": 4,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 3,
+    "pathName": "PVC-hoses"
+  },
+  "4": {
+    "name": "mangueras",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/mangueras.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras/10335/mangueras",
+    "id": 5,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 3,
+    "pathName": "mangueras"
+  },
+  "5": {
+    "name": "mangueras espirales",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/mangueras-espirales.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras/10336/mangueras-espirales",
+    "id": 6,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 3,
+    "pathName": "mangueras-espirales"
+  },
+  "6": {
+    "name": "látigos de manguera",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/látigos-de-manguera.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10330/mangueras/10338/latigos-de-manguera",
+    "id": 7,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 3,
+    "pathName": "látigos-de-manguera"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c91"
+  }
+},
+{
+  "0": {
+    "name": "acoplamientos de garras",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/acoplamientos-de-garras.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10313/acoplamientos/10314/acoplamientos-de-garras",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 4,
+    "pathName": "acoplamientos-de-garras"
+  },
+  "1": {
+    "name": "acoplamientos de flujo fácil",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/acoplamientos-de-flujo-fácil.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10313/acoplamientos/10315/acoplamientos-de-flujo-facil",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 4,
+    "pathName": "acoplamientos-de-flujo-fácil"
+  },
+  "2": {
+    "name": "Acoplamientos de liberación rápida",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Acoplamientos-de-liberación-rápida.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10313/acoplamientos/10316/acoplamientos-de-liberacion-rapida",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 4,
+    "pathName": "Acoplamientos-de-liberación-rápida"
+  },
+  "3": {
+    "name": "acoplamientos Seguridad",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/acoplamientos-Seguridad.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10300/accesorios-paralinea-de-aire/10313/acoplamientos/10317/acoplamientos-seguridad",
+    "id": 4,
+    "categoryId": 15,
+    "subcategoryId": 2,
+    "subSubcategoryId": 4,
+    "pathName": "acoplamientos-Seguridad"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c92"
+  }
+},
+{
+  "0": {
+    "name": "Accessories for PST",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Accessories-for-PST.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10013/accesorios-de-sistemas-de-medicion/10017/accessories-for-pst",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "subSubcategoryId": 12,
+    "pathName": "Accessories-for-PST"
+  },
+  "1": {
+    "name": "Accessories for Wrenches",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Accessories-for-Wrenches.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10013/accesorios-de-sistemas-de-medicion/10020/accessories-for-wrenches",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "subSubcategoryId": 12,
+    "pathName": "Accessories-for-Wrenches"
+  },
+  "2": {
+    "name": "Accessories for Delta Collectors",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Accessories-for-Delta-Collectors.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10013/accesorios-de-sistemas-de-medicion/10021/accessories-for-delta-collectors",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "subSubcategoryId": 12,
+    "pathName": "Accessories-for-Delta-Collectors"
+  },
+  "3": {
+    "name": "Other measurement systems accessories",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Other-measurement-systems-accessories.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/10400/accesorios-para-herramientas/10013/accesorios-de-sistemas-de-medicion/10022/other-measurement-systems-accessories",
+    "id": 4,
+    "categoryId": 15,
+    "subcategoryId": 3,
+    "subSubcategoryId": 12,
+    "pathName": "Other-measurement-systems-accessories"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c93"
+  }
+},
+{
+  "0": {
+    "name": "Unidad Hex de 3mm",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Unidad-Hex-de-3mm.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11205/brocas-de-tornillo-de-precision/11210/unidad-hex-de-3mm",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 1,
+    "pathName": "Unidad-Hex-de-3mm"
+  },
+  "1": {
+    "name": "5 16 unidad Hex de 8mm",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/5-16-unidad-Hex-de-8mm.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11205/brocas-de-tornillo-de-precision/11211/5-16-unidad-hex-de-8mm",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 1,
+    "pathName": "5-16-unidad-Hex-de-8mm"
+  },
+  "2": {
+    "name": "Cuadro Hex de 11mm",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Cuadro-Hex-de-11mm.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11205/brocas-de-tornillo-de-precision/11212/cuadro-hex-de-11mm",
+    "id": 3,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 1,
+    "pathName": "Cuadro-Hex-de-11mm"
+  },
+  "3": {
+    "name": "Vastago de 4 mm cuña",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Vastago-de-4-mm-cuña.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11205/brocas-de-tornillo-de-precision/11213/vastago-de-4-mm-cuna",
+    "id": 4,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 1,
+    "pathName": "Vastago-de-4-mm-cuña"
+  },
+  "4": {
+    "name": "Vastago de 5 mm cuña",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/Vastago-de-5-mm-cuña.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11205/brocas-de-tornillo-de-precision/11214/vastago-de-5-mm-cuna",
+    "id": 5,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 1,
+    "pathName": "Vastago-de-5-mm-cuña"
+  },
+  "5": {
+    "name": "4 mm media luna",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/4-mm-media-luna.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11205/brocas-de-tornillo-de-precision/11215/4-mm-media-luna",
+    "id": 6,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 1,
+    "pathName": "4-mm-media-luna"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c94"
+  }
+},
+{
+  "0": {
+    "name": "1 4 6 35 mm espiga Hex DIN3126 C6.3",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/1-4-6-35-mm-espiga-Hex-DIN3126-C6.3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11305/inserte-pedazos/11310/1-4-6-35-mm-espiga-hex-din3126-c6-3",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 2,
+    "pathName": "1-4-6-35-mm-espiga-Hex-DIN3126-C6.3"
+  },
+  "1": {
+    "name": "5 16 8 mm espiga Hex DIN3126 C8",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/5-16-8-mm-espiga-Hex-DIN3126-C8.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11305/inserte-pedazos/11311/5-16-8-mm-espiga-hex-din3126-c8",
+    "id": 2,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 2,
+    "pathName": "5-16-8-mm-espiga-Hex-DIN3126-C8"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c95"
+  }
+},
+{
+  "0": {
+    "name": "1 4 6 35 mm espiga Hex DIN3126 E6.3",
+    "image": "https://s3.amazonaws.com/desumex.com.mx/subsubsubcategorias/1-4-6-35-mm-espiga-Hex-DIN3126-E6.3.jpg",
+    "href": "https://www.desouttertools.mx/herramientas/10000/accesorios/11200/accesorios-de-fijacion/11405/pedazos-de-potencia/11410/1-4-6-35-mm-espiga-hex-din3126-e6-3",
+    "id": 1,
+    "categoryId": 15,
+    "subcategoryId": 4,
+    "subSubcategoryId": 3,
+    "pathName": "1-4-6-35-mm-espiga-Hex-DIN3126-E6.3"
+  },
+  "_id": {
+    "$oid": "656b8b156f0d8e80575d3c96"
+  }
+}]
