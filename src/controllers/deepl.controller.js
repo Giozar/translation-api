@@ -28,7 +28,7 @@ function saveTranslation(data) {
     });
 }
 
-async function dataTranslate() {
+async function dataTranslateWithDeepl() {
     const newData = [];
     const dataToTranslate = tools;
     const languageToTranslate = "es";
@@ -39,7 +39,6 @@ async function dataTranslate() {
     //     message: inputText,
     //     translation: result.text,
     // });
-    let sizes = 0;
 
     await Promise.all(dataToTranslate.map(async (data) => {
         for (const key in data) {
@@ -47,46 +46,29 @@ async function dataTranslate() {
                 const element = String(data[key]);
                 if (
                     (
-                        key !== "_id" 
-                        || key !== "Referencia" 
-                        || key !== "Modelo" 
-                        || key !== "name" 
-                        || key !== "categoryId" 
-                        || key !== "subcategoryId"
-                        || key !== "subSubcategoryId"
-                        || key !== "subSubSubcategoryId"
-                        || key !== "subSubSubcategoryId"
-                        || key !== "image"
-                        || key !== "pathName"
-                        || key !== "href"
+                        key === "Descripción"
+                        || key === "Caracteristicas"
+                        || key === "Beneficios"
+                        || key === "Tipo de herramienta"
+                        || key === "exactitud"
+                        || key === "fluidos"
                     )
                 && element.length > 0 && element !== null) {
-                    // const result = await translator.translateText(element, null, languageToTranslate);
-                    // data[key] = result.text;
-
-                    sizes += element.length;
+                    const result = await translator.translateText(element, null, languageToTranslate);
+                    data[key] = result.text;
                 }
             }
-        }
-
-        
+        }        
         newData.push(data);
     }));
-    
-    console.log(sizes);
     
     return newData;
 }
 
 async function deeplTranslate() {
-    const data = await dataTranslate();
+    const data = await dataTranslateWithDeepl();
     // console.log(data);
-    // await saveTranslation( data );
+    await saveTranslation( data );
 }
-
-
-
-
-
 
 export default deeplTranslate;
